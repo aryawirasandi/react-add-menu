@@ -9,7 +9,6 @@ const CardContainer = styled.div`
   margin: 0 auto;
   @media ${device.mobileSmall}{
         margin: 0 auto;
-        width : 90vw;
   }
   @media ${device.laptop}{
         width : 30vw;
